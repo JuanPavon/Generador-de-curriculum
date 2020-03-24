@@ -8,3 +8,5 @@ Nota: he subido el proyecto al completo porque el programa no lee el fichero si
 este está en la misma carpeta, pero si es capaz de leerlo en la misma ubicación
 en la que se genera el archivo html. 
 Es un proyecto de java realizado con eclipse.
+
+Dejo unas capturas de pantalla por si hubiera algún problema.
