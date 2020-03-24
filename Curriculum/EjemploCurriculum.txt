@@ -1,0 +1,12 @@
+>>>nombre
+Juan Pavon Lopez
+>>>telefono
+609281410
+>>>correo
+juan.pavon.lopez@iescampanillas.com
+>>>formacion
+Bachillerato tecnologico en IES Nuevo Scala, Rute
+Certificacion digital SCRUM tecnico por OpenWebBinars
+>>>experiencia laboral
+Programador junior en ByEvolution
+Carnet de conducir
